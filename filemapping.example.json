@@ -1,0 +1,13 @@
+{
+  "/example.txt": {
+    "path": "/example.txt",
+    "target": "/underlying_fs/real_example.txt"
+  },
+  "/example2.txt": {
+    "path": "/example2.txt"
+  },
+  "/some/dir": {
+    "path": "/some/dir",
+    "target": "/underlying_fs/some/dir"
+  }
+}
